@@ -1,0 +1,7 @@
+.recetaDetalleContenedor{
+    display: flex;
+}
+
+.recetaDetalle {
+    width: 80%;
+}

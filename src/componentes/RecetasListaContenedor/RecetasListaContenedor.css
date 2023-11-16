@@ -1,0 +1,11 @@
+.containerRecetas{
+    border: 1px solid black;
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.containerList {
+    display: flex;
+    border: 1px solid black;
+    width: 80%;
+}
